@@ -1,0 +1,100 @@
+{
+    
+    
+    "data":[
+        {
+            
+            "genre":"Rock",
+            "tracks":[
+                {
+                    "wrapperType":"track",
+                    "kind":"song",
+                    "artistId":256916427,
+                    "collectionId":860519725,
+                    "trackId":860519783,
+                    "artistName":"mor ve ötesi",
+                    "collectionName":"Dünya Yalan Söylüyor",
+                    "trackName":"Bir Derdim Var",
+                    "previewUrl":"https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a3/0b/57/a30b572a-b00e-e2c9-0e6a-aa9b85397d2d/mzaf_580876692671860936.plus.aac.p.m4a",
+                    "artworkUrl30":"https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/36/98/49/369849d9-8f0d-679d-0bde-26ca07fc6dd5/source/30x30bb.jpg",
+                    "artworkUrl60":"https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/36/98/49/369849d9-8f0d-679d-0bde-26ca07fc6dd5/source/60x60bb.jpg",
+                    "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/36/98/49/369849d9-8f0d-679d-0bde-26ca07fc6dd5/source/100x100bb.jpg",
+                    "releaseDate":"2004-04-16T07:00:00Z",
+                    "primaryGenreName":"Rock",
+                    
+                },
+                {
+                    "wrapperType":"track",
+                    "kind":"song",
+                    "artistId":148662,
+                    "collectionId":590423275,
+                    "trackId":590423552,
+                    "artistName":"LINKIN PARK",
+                    "collectionName":"Meteora (Deluxe Edition)",
+                    "trackName":"Numb",
+                    "previewUrl":"https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/bb/13/76/bb1376a7-4db0-ed68-c1a6-d0278cc4b320/mzaf_17832584344687833283.plus.aac.p.m4a",
+                    "artworkUrl30":"https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/09/c6/84/09c68474-6e3d-54e3-65fb-495509f20564/source/30x30bb.jpg",
+                    "artworkUrl60":"https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/09/c6/84/09c68474-6e3d-54e3-65fb-495509f20564/source/60x60bb.jpg",
+                    "artworkUrl100":"https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/09/c6/84/09c68474-6e3d-54e3-65fb-495509f20564/source/100x100bb.jpg",
+                    "releaseDate":"2003-03-25T08:00:00Z",
+                    "primaryGenreName":"Rock",
+                    
+                },
+                {
+                    "wrapperType":"track",
+                    "kind":"song",
+                    "artistId":599030056,
+                    "collectionId":341307854,
+                    "trackId":341307889,
+                    "artistName":"maNga",
+                    "collectionName":"Şehr-i Hüzün",
+                    "trackName":"Cevapsız Sorular",
+                    "previewUrl":"https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/34/52/49/34524974-43bc-e7fc-693c-356bdfd56d9c/mzaf_11249425467871824716.plus.aac.p.m4a",
+                    "artworkUrl30":"https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/37/04/6b/37046be2-6ff1-58aa-4eaa-7156d901de6f/source/30x30bb.jpg",
+                    "artworkUrl60":"https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/37/04/6b/37046be2-6ff1-58aa-4eaa-7156d901de6f/source/60x60bb.jpg",
+                    "artworkUrl100":"https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/37/04/6b/37046be2-6ff1-58aa-4eaa-7156d901de6f/source/100x100bb.jpg",
+                    "releaseDate":"2009-11-09T12:00:00Z",
+                    "primaryGenreName":"Rock",
+                    
+                },
+                {
+                    "wrapperType":"track",
+                    "kind":"song",
+                    "artistId":260533877,
+                    "collectionId":938230792,
+                    "trackId":938230872,
+                    "artistName":"Athena",
+                    "collectionName":"Altüst",
+                    "trackName":"Ses Etme",
+                    "previewUrl":"https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/56/b6/69/56b669f7-7e7e-a18f-b3d7-7a7ee964515b/mzaf_17457351022747973927.plus.aac.p.m4a",
+                    "artworkUrl30":"https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3a/f4/ec/3af4ece1-2f7e-0f2f-1903-3939161700d2/source/30x30bb.jpg",
+                    "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3a/f4/ec/3af4ece1-2f7e-0f2f-1903-3939161700d2/source/60x60bb.jpg",
+                    "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3a/f4/ec/3af4ece1-2f7e-0f2f-1903-3939161700d2/source/100x100bb.jpg",
+                    "releaseDate":"2014-11-10T08:00:00Z",
+                    "primaryGenreName":"Rock",
+                    
+                },
+                {
+                    "wrapperType":"track",
+                    "kind":"song",
+                    "artistId":1125345928,
+                    "collectionId":1191471696,
+                    "trackId":1191472082,
+                    "artistName":"yirmi7 & Birol Namoğlu",
+                    "collectionName":"Muhtemel Aşk - Single",
+                    "trackName":"Muhtemel Aşk",
+                    "previewUrl":"https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/40/9d/81/409d8138-0bd6-4e8b-a298-bcb2ee073f06/mzaf_15778761338891774740.plus.aac.p.m4a",
+                    "artworkUrl30":"https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/00/7f/41/007f41ad-4241-efcb-e192-20b75b40553f/source/30x30bb.jpg",
+                    "artworkUrl60":"https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/00/7f/41/007f41ad-4241-efcb-e192-20b75b40553f/source/60x60bb.jpg",
+                    "artworkUrl100":"https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/00/7f/41/007f41ad-4241-efcb-e192-20b75b40553f/source/100x100bb.jpg",
+                    "releaseDate":"2015-12-18T12:00:00Z",
+                    "primaryGenreName":"Rock",
+                    
+                }
+            ]
+        }
+        
+        
+    ]
+    
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>378702431003-3ccs11vskmiub98l4gpjhr8ued3hjp42.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.378702431003-3ccs11vskmiub98l4gpjhr8ued3hjp42</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDpFI2lxMlntL2BMiUowRUtXV5OLoZBR74</string>
+	<key>GCM_SENDER_ID</key>
+	<string>378702431003</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kertmen.Guessify</string>
+	<key>PROJECT_ID</key>
+	<string>guessify-18794</string>
+	<key>STORAGE_BUCKET</key>
+	<string>guessify-18794.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:378702431003:ios:f8a27b5566d885694fc9be</string>
+	<key>DATABASE_URL</key>
+	<string>https://guessify-18794-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

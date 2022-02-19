@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Guessify
 //
-//  Created by Oğuzhan KERTMEN on 25.01.2022.
+//  Created by Oğuzhan KERTMEN on 7.02.2022.
 //
 
 import UIKit
